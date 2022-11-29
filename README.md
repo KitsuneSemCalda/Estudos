@@ -7,6 +7,12 @@ Caso os tenha vá à pasta do algoritmo desejado e execute a instrução:<br>
 `clang++ {nome_do_algoritmo\estrutura desejado}` ou
 `g++ {nome_do_algoritmo\estrutura desejado}`
 
+### Possíveis erros de compilação
+
+Caso o clang++ reclame de que não encontrou alguma biblioteca mantenha a calma e respire fundo.
+
+Possivelmente o clang funcionará se você utilizar `clang++-14`. Caso não funcione, abra uma issue neste repositório e eu farei o possivel para ajudar
+
 ### ED:
   - Pilha utilizando Classes:<br>
        A pilha é uma estrutura dados definido com LiFo (Last. In. First. Out.).<br>
