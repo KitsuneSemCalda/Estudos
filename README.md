@@ -4,7 +4,7 @@
 
 Caso deseje testar os algoritmos e as estruturas de dados, você pode precisar do compilador clang ou do g++.
 Caso os tenha vá à pasta do algoritmo desejado e execute a instrução:<br> 
-`clang {nome_do_algoritmo\estrutura desejado}` ou
+`clang++ {nome_do_algoritmo\estrutura desejado}` ou
 `g++ {nome_do_algoritmo\estrutura desejado}`
 
 ### ED:
