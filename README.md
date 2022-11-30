@@ -17,3 +17,6 @@ Possivelmente o clang funcionará se você utilizar `clang++-14`. Caso não func
   - Pilha utilizando Classes:<br>
        A pilha é uma estrutura dados definido com LiFo (Last. In. First. Out.).<br>
        Aqui eu implementei uma pilha básica utilizando C++ e orientação a objetos.
+  - Fila utilizando Classes:<br>
+      A fila é uma estrutura de dados definida com Fifo (First. In. First. Out.).
+      A fila implementada foi criada de forma básica utilizando C++ e orientação a objetos.
