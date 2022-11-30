@@ -20,3 +20,10 @@ Possivelmente o clang funcionará se você utilizar `clang++-14`. Caso não func
   - Fila utilizando Classes:<br>
       A fila é uma estrutura de dados definida com Fifo (First. In. First. Out.).<br>
       A fila implementada foi criada de forma básica utilizando C++ e orientação a objetos.
+<br>
+  - Heap utilizando Classes:<br>
+    Em ciência da computação , um heap é uma estrutura de dados baseada em árvore especializada que é essencialmente uma árvore quase completa [1] que satisfaz a propriedade de heap : em um heap máximo , para qualquer nó C, se P é um nó pai de C, então a chave (o valor ) de P é maior ou igual à chave de C. Em um min heap , a chave de P é menor ou igual à chave de C. [2] O nó no "topo" do heap (sem pais) é chamado de nó raiz .<br>
+    - A heap é dividida em duas subclasses:
+        - MaxHeap
+        - MinHeap
+    
