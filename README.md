@@ -34,4 +34,4 @@ Possivelmente o clang funcionará se você utilizar `clang++-14`. Caso não func
         - MinHeap
 
 ### PLP:
-    - Raizes reais de uma equação de segundo grau:<br>
+ - Raizes reais de uma equação de segundo grau:<br>
