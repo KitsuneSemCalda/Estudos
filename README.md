@@ -1,11 +1,17 @@
 # Estudos 2022 de ciencias da computação:
 
+- **ED**: **E**strutura de **D**ados
+- **PLP**: **P**aradigmas de **L**inguagens de **P**rogramação.
+
 ## Como testar os algoritmos
 
 Caso deseje testar os algoritmos e as estruturas de dados, você pode precisar do compilador clang ou do g++.
 Caso os tenha vá à pasta do algoritmo desejado e execute a instrução:<br> 
 `clang++ {nome_do_algoritmo\estrutura desejado}` ou
 `g++ {nome_do_algoritmo\estrutura desejado}`
+
+Caso deseje testar os algoritmos feitos em plp. Caso o algoritmo tenha a extensão. **.hs** significa que o algoritmo foi escrito em Haskell, ou sjea você necessita executar a seguinte instrução:<br>
+`ghc {nome do algoritmo\estrutura desejado}`
 
 ### Possíveis erros de compilação
 
@@ -26,4 +32,6 @@ Possivelmente o clang funcionará se você utilizar `clang++-14`. Caso não func
     - A heap é dividida em duas subclasses:
         - MaxHeap
         - MinHeap
-    
+
+### PLP:
+    - Raizes reais de uma equação de segundo grau:<br>
