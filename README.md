@@ -32,6 +32,6 @@ Possivelmente o clang funcionará se você utilizar `clang++-14`. Caso não func
     - A heap é dividida em duas subclasses:
         - MaxHeap
         - MinHeap
-
-### PLP:
- - Raizes reais de uma equação de segundo grau:<br>
+### Graph
+    - Adjacency List using Vector
+    - Adjacency Matrix using Vector
